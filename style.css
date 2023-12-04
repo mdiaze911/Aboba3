@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+h1{
+top: 45px;
+left: 78px;
+width: 251px;
+height: 72px;
+color: #0E0578;
+font-family: Poppins;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  color: #686565;
+  font: 30px/normal Poppins;
+  gap: 78px
+}
+h2 {
+  width: 372px;
+  height: 45px;
+  top: 318px;
+  left: 78px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+}
+h3 {
+ width: 447px;
+ height: 144px;
+ top: 368px;
+ left: 78px;
+ font-family: Poppins;
+ font-weight: 700;
+ font-size: 48px;
+ line-height: 72px;
+ color: #2000E7;
+}
+h4 {
+    width: 261px;
+    height: 72px;
+    top: 440px;
+    left: 230px;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    color:  #F2BD00;
+
+}
+p1 {
+  width: 616px;
+  height: 72px;
+  top: 533px;
+  left: 77px;
+  font-family: Poppins;  
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}
+.rounded-corner {
+    border-radius: 0 0 0 20px;
+  }
+  .sharp-corners {
+    border-radius: 20px 0 0 0; 
+  }
+  Chel {
+    width: 564px;
+    height: 564px;
+    top: 340px;
+    left: 772px;
+    border-radius: 0px, 0px, 0px, 191px;
+  }
+  .shadow-example {
+    width: 200px;
+    height: 200px;
+    background-color: #8775F980;
+  }
+ 
